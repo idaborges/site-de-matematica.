@@ -1,0 +1,9 @@
+.cabeçalho {
+background-color:rgb(179, 129, 129)
+color white; 
+display:flex;
+}
+.cabeçalho-imag{
+    width: 5%;
+    height: 5%;
+}
